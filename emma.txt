@@ -1,0 +1,5 @@
+My name is Emma
+Am a Full stack python developer
+Am learning backend development
+I also learning blockchain development, frontend, mobile app development
+I would like to be an AI developer this year
